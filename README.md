@@ -117,4 +117,3 @@ La columna objetivo debe ser **categórica**:
 
 ## 👨‍💻 Autor
 
-Desarrollado para el curso de **Minería de Datos**
